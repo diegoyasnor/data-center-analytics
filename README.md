@@ -38,6 +38,22 @@ This project demonstrates how operational and financial data can be transformed 
 - Average power consumption and temperature remain stable across zones, indicating no systemic energy issues.
 - Zone A shows a significantly higher number of incidents, suggesting operational inefficiencies rather than capacity constraints.
 - A small subset of racks consumes disproportionately high energy despite moderate utilization levels, representing low-risk optimization opportunities.
+  
+## Business Impact – Estimated Energy Savings
+
+Based on the analysis of energy consumption patterns and rack-level inefficiencies, a conservative optimization scenario was evaluated.
+
+### Conservative Scenario (5% Energy Reduction)
+- Optimization focused on a limited set of high-consumption, low-utilization racks
+- No infrastructure upgrades assumed
+- No impact on service availability or performance
+
+### Estimated Impact
+- **Estimated energy cost savings:** ~5%
+- **Equivalent to:** meaningful annualized savings if applied consistently
+- **Approach:** targeted operational adjustments (workload redistribution, capacity consolidation)
+
+This conservative estimate demonstrates that measurable financial impact can be achieved through data-driven operational decisions, without requiring large capital investments.
 
 ---
 
@@ -53,6 +69,7 @@ This project demonstrates how operational and financial data can be transformed 
 
 ### Outliers & Optimization Targets
 ![Outliers](assets/Outliers_&_Optimization.png)
+
 
 
 
