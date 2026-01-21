@@ -52,5 +52,6 @@ This project demonstrates how operational and financial data can be transformed 
 ![Operational](assets/Operational_Efficiency.png)
 
 ### Outliers & Optimization Targets
-![Outliers](assets/Outliers & Optimization.png)
+![Outliers](assets/Outliers&Optimization.png)
+
 
