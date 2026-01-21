@@ -42,3 +42,15 @@ This project demonstrates how operational and financial data can be transformed 
 ---
 
 ## Project Structure
+
+## Dashboard Preview
+
+### Executive Overview
+![Executive](assets/Executive-Energy_overview.png)
+
+### Operational Efficiency
+![Operational](assets/Operational_Efficiency.png)
+
+### Outliers & Optimization Targets
+![Outliers](assets/Outliers & Optimization.png)
+
